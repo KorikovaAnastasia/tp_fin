@@ -11,7 +11,7 @@ USERS_FILENAME = './data/users.txt'
 CART_FILENAME = './data/cart.txt'
 users: dict[str, str] = {}
 # 33
-# 333333
+# 3333
 
 app = FastAPI()
 
